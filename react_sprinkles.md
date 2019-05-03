@@ -6,9 +6,7 @@ We have watched the React ecosystem mature.
 Ratsnest of Jquery / nilla JS.
 
 Development:
-When Revelry began helping companies make technology stack decisions, we typically hooked up our clients with a Ruby/Rails app.
-
-Eventually, Elixir/Beam developed into a production-ready alternative, and when Chris Mccord and friends fabricated the Phoenix web framework, built on the inimitable Elixir database wrapper Ecto, our ears perked up and thoughts of making a change to our base 'stack' started floating. Heralded by Bryan Joseph and Luke Ludet, Elixir started working it's way into our tooling, and after a few mini project pilots, the engineers fell in love with the language (FP/Ruby style/approchable) and managment (and clients) fell in love with the results, we decided to go all in.
+When Revelry began helping companies make technology stack decisions, we typically hooked up our clients with a Ruby/Rails app. Eventually, Elixir/Beam developed into a production-ready alternative, and when Chris Mccord and friends fabricated the Phoenix web framework, built on the inimitable Elixir database wrapper Ecto, our ears perked up and thoughts of making a change to our base 'stack' started floating. Heralded by Bryan Joseph and Luke Ludet, Elixir started working it's way into our tooling, and after a few mini project pilots, the engineers fell in love with the language (FP/Ruby style/approchable) and managment (and clients) fell in love with the results, we decided to go all in.
 
 We still liked using React but our React projects had gotten a little wacky (make positive). Duplicated state in redux stores. Client side routing on top of. Server side rendering all of this. Too much Javascript can slow down a project. The change to Phoenix gave us the oppurtunity to revauluate how we want to use Javascript and React on our projects.
 
